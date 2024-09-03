@@ -1,0 +1,13 @@
+Essencialmente, Python é mais simples e versátil, Java é robusto e portátil, e C++ é poderoso e eficiente em termos de desempenho.
+Pyton: print("Hello, World!")
+Java: public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+C++: #include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
