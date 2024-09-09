@@ -1,0 +1,27 @@
+ Estrutura de Repetição (Loop `for`)
+
+```python
+# Exemplo de loop 'for' para imprimir números de 1 a 5
+for i in range(1, 6):
+    print(f"Número: {i}")
+```
+
+Este código utiliza o loop `for` para iterar sobre uma sequência de números de 1 a 5 e imprime cada número.
+
+Estrutura de Tomada de Decisão (if-else)
+
+```python
+# Exemplo de if-else para verificar se um número é positivo, negativo ou zero
+numero = int(input("Digite um número: "))
+
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.")
+```
+
+Neste código, a estrutura `if-else` é utilizada para verificar se o número fornecido pelo usuário é positivo, negativo ou zero, e imprime a resposta correspondente.
+
+Esses dois exemplos cobrem os conceitos de repetição e tomada de decisão em Python.
