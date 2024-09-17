@@ -1,0 +1,10 @@
+def imprimir_vogais(palavra):
+    vogais = "aeiouAEIOU"
+    for letra in palavra:
+        if letra in vogais:
+            print(letra, end=" ")
+
+# Palavra fornecida
+palavra = "carro"
+print("Vogais na palavra:", end=" ")
+imprimir_vogais(palavra)
